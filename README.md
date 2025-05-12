@@ -30,3 +30,5 @@ How could your project grow and become something even more? What kind of skills,
 ## Acknowledgments
 * [A method for extracting buildings from remote sensing images based on 3DJA-UNet3+](https://www.nature.com/articles/s41598-024-70019-z)
 * [Foot print detection](https://github.com/chenzhaiyu/footprint-detection)
+* [Building rooftop extraction from high resolution aerial images using multiscale global perceptron with spatial context refinement](https://www.nature.com/articles/s41598-025-91206-6?fromPaywallRec=false)
+
